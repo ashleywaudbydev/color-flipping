@@ -1,6 +1,6 @@
-# Frontend Mentor - Base Apparel coming soon page solution
+# Color Flipper Project
 
-This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
 
 ## Table of contents
 
@@ -27,16 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 
+
+![01 02 2023_14 52 07_REC](https://user-images.githubusercontent.com/84845712/216076589-04ed8253-0ff8-45fc-9de1-25ad017a6186.png)
 
 
 
 
 ### Links
-
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://00awaudby.github.io/color-flipping/)
 
 ## My process
 
@@ -51,7 +50,11 @@ Users should be able to:
 
 ### What I learned
 
-i learned how to randomize something in javascript and how to add an event listener and to use functions.
+i learned how to randomize something in javascript
+
+how to add an event listener and to use functions.
+
+how to modify and change classes in Javascript
 
 
 
