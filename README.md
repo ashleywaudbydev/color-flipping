@@ -35,7 +35,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL:(https://00awaudby.github.io/color-flipping/)
+- Live Site URL:(https://ashleywaudbydev.github.io/color-flipping/)
 
 ## My process
 
